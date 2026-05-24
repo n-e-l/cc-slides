@@ -159,6 +159,18 @@ for(let q = 0; q < 40; q++) {
 
 ---
 
+<!-- _backgroundColor: black -->
+
+![bg contain](data/uni.png)
+
+---
+
+<!-- _backgroundColor: black -->
+
+![bg contain](data/noa.png)
+
+---
+
 ## fin :)
 
 - My site: https://nel.re
