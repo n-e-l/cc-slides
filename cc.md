@@ -160,3 +160,7 @@ for(let q = 0; q < 40; q++) {
 ---
 
 ## fin :)
+
+- My site: https://nel.re
+- Email me: lauda@nel.re
+- Connect on Signal: +32472271852
