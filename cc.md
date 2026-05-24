@@ -149,7 +149,7 @@ for(let q = 0; q < 40; q++) {
 
 <!-- _backgroundColor: black -->
 
-![bg contain](./data/krab-mountain.gif)
+![bg contain](./data/krab-shape.gif)
 
 ---
 
