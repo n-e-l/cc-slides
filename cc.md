@@ -171,6 +171,12 @@ for(let q = 0; q < 40; q++) {
 
 ---
 
+<!-- _backgroundColor: black -->
+
+![bg contain](data/fish.png)
+
+---
+
 ## fin :)
 
 - My site: https://nel.re
